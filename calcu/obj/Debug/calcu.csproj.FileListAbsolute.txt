@@ -1,0 +1,9 @@
+c:\users\dell\onedrive\documents\visual studio 2012\Projects\calcu\calcu\bin\Debug\calcu.exe.config
+c:\users\dell\onedrive\documents\visual studio 2012\Projects\calcu\calcu\bin\Debug\calcu.exe
+c:\users\dell\onedrive\documents\visual studio 2012\Projects\calcu\calcu\bin\Debug\calcu.pdb
+c:\users\dell\onedrive\documents\visual studio 2012\Projects\calcu\calcu\obj\Debug\calcu.csprojResolveAssemblyReference.cache
+c:\users\dell\onedrive\documents\visual studio 2012\Projects\calcu\calcu\obj\Debug\calcu.Form1.resources
+c:\users\dell\onedrive\documents\visual studio 2012\Projects\calcu\calcu\obj\Debug\calcu.Properties.Resources.resources
+c:\users\dell\onedrive\documents\visual studio 2012\Projects\calcu\calcu\obj\Debug\calcu.csproj.GenerateResource.Cache
+c:\users\dell\onedrive\documents\visual studio 2012\Projects\calcu\calcu\obj\Debug\calcu.exe
+c:\users\dell\onedrive\documents\visual studio 2012\Projects\calcu\calcu\obj\Debug\calcu.pdb
